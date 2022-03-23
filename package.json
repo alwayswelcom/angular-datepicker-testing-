@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akmittal/angular2-datepicker.git"
+    "url": "https://github.com/alwaywelcom/angular2-datepicker-testing-.git"
   },
   "engines": {
     "node": ">=5.4"
